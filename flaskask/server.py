@@ -1,5 +1,5 @@
 #!/usr/bin/python2.7
-from subsonic import app
+from sublexa import app
 import os
 
 if __name__ == '__main__':
