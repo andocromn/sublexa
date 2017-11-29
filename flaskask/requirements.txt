@@ -1,0 +1,4 @@
+Flask
+Flask-Ask
+fuzzywuzzy
+py-sonic
