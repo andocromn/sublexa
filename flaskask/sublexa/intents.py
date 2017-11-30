@@ -1,5 +1,5 @@
 import libsonic
-from subsonic import ask
+from sublexa import ask
 from flask import Flask, json
 from flask_ask import Ask, question, statement, session, audio, current_stream, logger
 from qmanager import QueueManager
